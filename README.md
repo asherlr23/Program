@@ -6,6 +6,6 @@ If you want to try out the program, Testing should be as easy as installing a C#
 
 # Developing
 The minumum requirenments for developing this are: 
-- .NET framework 4.8
-- Visual studio (16.8)
-- C# and .NET  VS extentions
+- .NET Core 5.0
+- Visual studio (16.8) Or Visual studio code
+- C# and .NET  VSC extentions
